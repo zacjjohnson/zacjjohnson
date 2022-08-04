@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Zac Johnson
 - 👀 I’m interested in building beautiful applications and writing beautiful code.
-- 🌱 I’m currently learning Fullstack Development 
+- 🌱 I’m currently learning Fullstack Development.
 - 💞️ I’m looking to learn as much as possible and would love any support/collaboration at any time. 
-- 📫 How to reach me: find me on instagram @Zachariahjjohnson, or shoot me an email. wecooked@gmail.com.
+- 📫 How to reach me: find me on instagram @zachariahjjohnson, or shoot me an email: zacjohnson@outlook.com.
 
 <!---
 zacjjohnson/zacjjohnson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 
 - Full Stack Developer
 - Javascript, React.js, MongoDB, Node.js, Express
-- I would love to connect and build projects
+- I would love to connect and build some cool projects
 - Shoot me an email: zacjohnson@outlook.com
 
 <!---
